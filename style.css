@@ -1,0 +1,46 @@
+*{
+     margin: 0%;
+     padding: 0%;
+}
+nav{
+     background-color: green;
+     color: yellow;
+     margin: 5px;
+     padding: 10px;
+}
+ul,h1,li{
+     display: inline;
+}
+ul{
+     margin-left: 790px;
+}
+.image{
+     display: inline;
+}
+.quote h1{
+     text-align: center;
+     display: block;
+     
+     
+}
+.img1{
+     display: inline;
+     margin: 5px;
+    
+     
+     
+     
+}
+.contact {
+     background-color: green;
+     color:yellow;
+     text-align: center;
+     margin: 10px;
+     padding: 10px;
+
+
+}
+
+
+
+    
